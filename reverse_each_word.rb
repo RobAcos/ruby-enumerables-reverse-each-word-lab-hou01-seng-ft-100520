@@ -1,4 +1,4 @@
 def reverse_each_word(phrase)
-  phrase.reverse 
+  phrase
 end
   
